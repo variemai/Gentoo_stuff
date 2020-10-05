@@ -1,0 +1,15 @@
+dev-lang/spidermonkey no-lto
+media-libs/alsa-lib no-lto
+kde-plasma/plasma-meta no-lto
+x11-base/xorg-server no-lto
+dev-qt/qtscript no-lto
+dev-libs/libaio no-lto
+sys-block/thin-provisioning-tools no-lto
+sys-devel/llvm llvm-fail
+sys-devel/llvm-common llvm-fail
+app-text/texlive-core texlive
+dev-texlive/texlive-basic texlive
+dev-java/oracle-javamail texlive
+x11-terms/alacritty alacrity
+media-libs/libsdl2 llvm-fail
+www-client/firefox no-pta
